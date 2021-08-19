@@ -18,9 +18,7 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2",
-    "waveform-data": "^4.1.1",
-    "waveform-generator": "^1.1.0",
-    "web-vitals": "^1.0.1"
+    "waveform-data": "^4.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
