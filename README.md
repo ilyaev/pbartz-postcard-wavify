@@ -12,12 +12,17 @@ go to your projects directory
 
 ### `npm install`
 
-after this, only command to start development server is:
+after this, commands to start development is:
 
-`npm run start`
+`npm run start` - to start server in dev mode
 
-to build application
+and in different terminal/console
+
+`cd client`
+`npm run client` - to start client in dev mode
+
+to build application (client folder)
 
 `npm run build`
 
-and then copy content of 'build' folder to your 'public_html' anywhere
+and then copy content of 'client/build' folder to your 'public_html' anywhere
